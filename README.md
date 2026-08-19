@@ -1,5 +1,4 @@
 # QODEX - Quiz & Riddle App
-================================
 
 ## Description
 QODEX is a fun and interactive mobile quiz application developed as part of the CO1007 Computing Challenge module at the University of Lancashire. 
